@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-11-10T11:54:16.042Z to 2023-11-11T06:22:12.731Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.1895299" lon="4.579209">
+  <name>Equestrian center nut fields</name>
+  <desc>Horse riding school from 2023-11-11T07:34:56.008Z to 2023-11-11T10:16:37.880Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.1940042" lon="4.5423374">
+  <name>Jumbo Ranst</name>
+  <desc>Supermarket from 2023-11-11T10:32:57.848Z to 2023-11-11T10:49:03.255Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-11-11T11:54:54.291Z to 2023-11-12T13:05:47.409Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Driving</name>
+  <desc>Driving from 2023-11-11T06:22:12.731Z to 2023-11-11T07:34:56.008Z. Distance 67804m</desc>
+  <trkseg>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0562142" lon="3.6954129"></trkpt>
+    <trkpt lat="51.056201" lon="3.6953793"></trkpt>
+    <trkpt lat="51.0555105" lon="3.6895696"></trkpt>
+    <trkpt lat="51.0545347" lon="3.6819263"></trkpt>
+    <trkpt lat="51.0534239" lon="3.6735691"></trkpt>
+    <trkpt lat="51.050716" lon="3.8254612"></trkpt>
+    <trkpt lat="51.0546317" lon="3.8416978"></trkpt>
+    <trkpt lat="51.0596243" lon="3.859037"></trkpt>
+    <trkpt lat="51.0630565" lon="3.8709221"></trkpt>
+    <trkpt lat="51.066302" lon="3.8819756"></trkpt>
+    <trkpt lat="51.1399924" lon="4.1674048"></trkpt>
+    <trkpt lat="51.1413126" lon="4.1738073"></trkpt>
+    <trkpt lat="51.143806" lon="4.1858637"></trkpt>
+    <trkpt lat="51.1481184" lon="4.1972677"></trkpt>
+    <trkpt lat="51.1900725" lon="4.5795049"></trkpt>
+    <trkpt lat="51.1900566" lon="4.5795842"></trkpt>
+    <trkpt lat="51.1895299" lon="4.579209"></trkpt>
+    <trkpt lat="51.1895299" lon="4.579209"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Driving</name>
+  <desc>Driving from 2023-11-11T10:16:37.880Z to 2023-11-11T10:32:57.848Z. Distance 2629m</desc>
+  <trkseg>
+    <trkpt lat="51.1895299" lon="4.579209"></trkpt>
+    <trkpt lat="51.1895299" lon="4.579209"></trkpt>
+    <trkpt lat="51.1897335" lon="4.57898"></trkpt>
+    <trkpt lat="51.1938448" lon="4.5452767"></trkpt>
+    <trkpt lat="51.1940767" lon="4.5425261"></trkpt>
+    <trkpt lat="51.1940042" lon="4.5423374"></trkpt>
+    <trkpt lat="51.1940042" lon="4.5423374"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Driving</name>
+  <desc>Driving from 2023-11-11T10:49:03.255Z to 2023-11-11T11:54:54.291Z. Distance 69137m</desc>
+  <trkseg>
+    <trkpt lat="51.1940042" lon="4.5423374"></trkpt>
+    <trkpt lat="51.1940042" lon="4.5423374"></trkpt>
+    <trkpt lat="51.1981488" lon="4.525985"></trkpt>
+    <trkpt lat="51.1958871" lon="4.5070707"></trkpt>
+    <trkpt lat="51.1994955" lon="4.4905495"></trkpt>
+    <trkpt lat="51.2035791" lon="4.4863825"></trkpt>
+    <trkpt lat="51.2113816" lon="4.4911268"></trkpt>
+    <trkpt lat="51.2159932" lon="4.4561835"></trkpt>
+    <trkpt lat="51.2000574" lon="4.4358176"></trkpt>
+    <trkpt lat="51.1923798" lon="4.4049144"></trkpt>
+    <trkpt lat="51.2022047" lon="4.3787649"></trkpt>
+    <trkpt lat="51.2095748" lon="4.3391786"></trkpt>
+    <trkpt lat="51.1934151" lon="4.3066439"></trkpt>
+    <trkpt lat="51.1728086" lon="4.2612569"></trkpt>
+    <trkpt lat="51.1491713" lon="4.1997669"></trkpt>
+    <trkpt lat="51.1393397" lon="4.1727231"></trkpt>
+    <trkpt lat="51.1315819" lon="4.1145932"></trkpt>
+    <trkpt lat="51.1201603" lon="4.0670059"></trkpt>
+    <trkpt lat="51.0991696" lon="4.0404447"></trkpt>
+    <trkpt lat="51.0752735" lon="3.9841835"></trkpt>
+    <trkpt lat="51.0698917" lon="3.940435"></trkpt>
+    <trkpt lat="51.0684289" lon="3.8766066"></trkpt>
+    <trkpt lat="51.049927" lon="3.8132662"></trkpt>
+    <trkpt lat="51.0420648" lon="3.7837867"></trkpt>
+    <trkpt lat="51.033019" lon="3.7502935"></trkpt>
+    <trkpt lat="51.038962" lon="3.7372823"></trkpt>
+    <trkpt lat="51.0386578" lon="3.726086"></trkpt>
+    <trkpt lat="51.0422203" lon="3.7190933"></trkpt>
+    <trkpt lat="51.047332" lon="3.71078"></trkpt>
+    <trkpt lat="51.049302" lon="3.7001871"></trkpt>
+    <trkpt lat="51.0543526" lon="3.6973979"></trkpt>
+    <trkpt lat="51.0564978" lon="3.6985187"></trkpt>
+    <trkpt lat="51.0574461" lon="3.6998448"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

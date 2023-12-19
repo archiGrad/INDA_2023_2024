@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-11-09T15:11:00.186Z to 2023-11-10T08:01:47.589Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0602326" lon="3.7098937">
+  <name>Odisee co-hogeschool - Technologiecampus Gent</name>
+  <desc>College from 2023-11-10T08:09:28.530Z to 2023-11-10T11:50:16.006Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-11-10T11:54:16.042Z to 2023-11-11T06:22:12.731Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Cycling</name>
+  <desc>Cycling from 2023-11-10T08:01:47.589Z to 2023-11-10T08:09:28.530Z. Distance 813m</desc>
+  <trkseg>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0572337" lon="3.7018472"></trkpt>
+    <trkpt lat="51.0577631" lon="3.701854"></trkpt>
+    <trkpt lat="51.0584092" lon="3.7031895"></trkpt>
+    <trkpt lat="51.0602326" lon="3.7098937"></trkpt>
+    <trkpt lat="51.0602326" lon="3.7098937"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Cycling</name>
+  <desc>Cycling from 2023-11-10T11:50:16.006Z to 2023-11-10T11:54:16.042Z. Distance 755m</desc>
+  <trkseg>
+    <trkpt lat="51.0602326" lon="3.7098937"></trkpt>
+    <trkpt lat="51.0602326" lon="3.7098937"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
