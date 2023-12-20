@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-12-18T14:48:47.218Z to 2023-12-19T20:08:50.701Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0500379" lon="3.7195511">
+  <name>Patrick Foley's</name>
+  <desc>Irish pub from 2023-12-19T20:18:21.146Z to 2023-12-19T21:25:06.165Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-12-19T21:39:01.479Z to 2023-12-19T22:03:15.460Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Cycling</name>
+  <desc>Cycling from 2023-12-19T20:08:50.701Z to 2023-12-19T20:18:21.146Z. Distance 2100m</desc>
+  <trkseg>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0564371" lon="3.7010385"></trkpt>
+    <trkpt lat="51.0566116" lon="3.7016105"></trkpt>
+    <trkpt lat="51.0567549" lon="3.7041845"></trkpt>
+    <trkpt lat="51.0571756" lon="3.7067545"></trkpt>
+    <trkpt lat="51.0576892" lon="3.7074511"></trkpt>
+    <trkpt lat="51.0570925" lon="3.708895"></trkpt>
+    <trkpt lat="51.0568334" lon="3.7094841"></trkpt>
+    <trkpt lat="51.0561047" lon="3.7109923"></trkpt>
+    <trkpt lat="51.0547938" lon="3.7135783"></trkpt>
+    <trkpt lat="51.0545854" lon="3.7164148"></trkpt>
+    <trkpt lat="51.0534032" lon="3.7167648"></trkpt>
+    <trkpt lat="51.0521983" lon="3.716913"></trkpt>
+    <trkpt lat="51.0522085" lon="3.7198348"></trkpt>
+    <trkpt lat="51.0518417" lon="3.720495"></trkpt>
+    <trkpt lat="51.0509185" lon="3.7200985"></trkpt>
+    <trkpt lat="51.0501381" lon="3.719805"></trkpt>
+    <trkpt lat="51.0500379" lon="3.7195511"></trkpt>
+    <trkpt lat="51.0500379" lon="3.7195511"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Cycling</name>
+  <desc>Cycling from 2023-12-19T21:25:06.165Z to 2023-12-19T21:39:01.479Z. Distance 2087m</desc>
+  <trkseg>
+    <trkpt lat="51.0500379" lon="3.7195511"></trkpt>
+    <trkpt lat="51.0500379" lon="3.7195511"></trkpt>
+    <trkpt lat="51.0499893" lon="3.7197597"></trkpt>
+    <trkpt lat="51.0510027" lon="3.7200574"></trkpt>
+    <trkpt lat="51.0520634" lon="3.7205701"></trkpt>
+    <trkpt lat="51.0522216" lon="3.7195607"></trkpt>
+    <trkpt lat="51.0522861" lon="3.7171459"></trkpt>
+    <trkpt lat="51.0539212" lon="3.7167256"></trkpt>
+    <trkpt lat="51.0545313" lon="3.7160425"></trkpt>
+    <trkpt lat="51.0546785" lon="3.7141384"></trkpt>
+    <trkpt lat="51.0556555" lon="3.7118731"></trkpt>
+    <trkpt lat="51.0566061" lon="3.7099055"></trkpt>
+    <trkpt lat="51.057152" lon="3.7086447"></trkpt>
+    <trkpt lat="51.0576826" lon="3.7075472"></trkpt>
+    <trkpt lat="51.0583635" lon="3.7051103"></trkpt>
+    <trkpt lat="51.0588453" lon="3.7044634"></trkpt>
+    <trkpt lat="51.0588416" lon="3.7044266"></trkpt>
+    <trkpt lat="51.0588328" lon="3.7045735"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
