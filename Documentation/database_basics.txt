@@ -1,0 +1,131 @@
+
+-- make a db "project_name" (kokerstraat_14)
+CREATE DATABASE kokerstraat_14;
+
+
+
+-- table 1
+-- project_info
+
+CREATE TABLE project_info (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    latitude DOUBLE NOT NULL,
+    longitude DOUBLE NOT NULL,
+    user VARCHAR(255) NOT NULL,
+    active_sensors VARCHAR(255) NOT NULL,
+    fase INT NOT NULL
+);
+
+-- add values to project_info
+INSERT INTO project_info (latitude, longitude, user, active_sensors, fase)
+VALUES
+    (51.04696, 3.71957, 'joris', '1,2,3,4,8,9,10', 1);
+
+
+--display data in project_info
+
+SELECT * FROM project_info;
+
+
+-- alter data from active_sensors
+
+UPDATE project_info
+SET active_sensors = '1,2,3'
+WHERE id=1;
+
+--drop table
+DROP TABLE project_info;
+
+---------------------------------------------------------------------
+
+-- table 2
+-- sensor_data
+
+CREATE TABLE sensor_data (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    mac_address VARCHAR(255) NOT NULL,
+    type INT NOT NULL,
+    value FLOAT NOT NULL,
+    unit VARCHAR(255) NOT NULL,
+    voltage FLOAT NOT NULL,
+    time_utc INT NOT NULL
+);
+
+-- add values to sensordata
+
+INSERT INTO sensor_data (mac_address, type, value, unit, voltage, time_utc)
+VALUES
+    ('x', 1, 10, 'celcius', 3.3, 123),
+    ('y', 1, 13, 'celcius', 3.3, 123),
+    ('z', 1, 22, 'humid', 3.3, 123);
+
+SELECT * FROM sensor_data;    
+
+
+
+
+-- another database
+
+create database de_lijn;
+
+use de_lijn;
+
+
+CREATE TABLE project_info (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    latitude DOUBLE NOT NULL,
+    longitude DOUBLE NOT NULL,
+    user VARCHAR(255) NOT NULL,
+    active_sensors VARCHAR(255) NOT NULL,
+    fase INT NOT NULL
+);
+
+-- add values to project_info
+INSERT INTO project_info (latitude, longitude, user, active_sensors, fase)
+VALUES
+    (50.11196, 4.2, 'deniz', '11,12,3,44,5', 2);
+
+
+CREATE TABLE sensor_data (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    mac_address VARCHAR(255) NOT NULL,
+    type INT NOT NULL,
+    value FLOAT NOT NULL,
+    unit VARCHAR(255) NOT NULL,
+    voltage FLOAT NOT NULL,
+    time_utc INT NOT NULL
+);
+:
+INSERT INTO sensor_data (mac_address, type, value, unit, voltage, time_utc)
+VALUES
+    ('aw', 200, 6, 'percentage', 3.3, 256),
+    ('bw', 100, 223, 'celcius', 3.3, 256),
+    ('cw', 300, 100, 'db', 3.3, 256);
+
+
+
+
+
+
+
+-- update project_info on all databases
+
+curl -X PUT -H "Content-Type: aon/json" -d '{"id": 1, "latitude": 5333331.04696, "longitude": 3.71957, "user": "jordfdddddis", "active_sensors": "4,5,6000", "fase": 2}' http://api.archigrad.io/?db=de_lijn
+
+
+-- PUT: Primarily for updates. You send the entire resource (or the parts that are changing) to a specific location.
+
+-- POST: Often used for creating new resources or adding new records. You send the data you want to add to a general endpoint, and the server usually generates a new identifier for the resource.
+
+-- So, in terms of databases, you might use a PUT request to update a row in a table with a specific ID, and a POST request to add a new row to a table.
+
+
+-- # GET request
+-- curl http://api.archigrad.io/?db=kokerstraat_14&table=sensor_data
+
+# POST request
+curl -X POST -H "Content-Type: application/json" -d '{"id":"6","mac_address":"cw","type":"300","value":"100","unit":"db","voltage":"3.3","time_utc":"256"}' http://api.archigrad.io/?db=kokerstraat_14&table=sensor_data
+
+
+# PUT request
+curl -X PUT -H "Content-Type: application/json" -d '{"id": 1, "column1": "new_value1", "column2": "new_value2"}' http://api.archigrad.io/?db=kokerstraat_14&table=my_table_name

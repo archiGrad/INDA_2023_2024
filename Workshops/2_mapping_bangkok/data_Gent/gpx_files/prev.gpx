@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2022-11-27T16:51:41.919Z to 2022-11-29T11:37:41.000Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.06409" lon="3.70339">
+  <name>Gent Nieuwevaartbrug</name>
+  <desc>Transit stop from 2022-11-29T11:46:26.000Z to 2022-11-29T11:55:03.000Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0599173" lon="3.7120164">
+  <name>Gent Rabot (Begijnhoflaan)</name>
+  <desc>Tram stop from 2022-11-29T11:57:04.000Z to 2022-11-29T12:12:38.465Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0730959" lon="3.7105642">
+  <name>Myosotisstraat 18</name>
+  <desc>Building from 2022-11-29T12:21:19.966Z to 2022-11-29T14:52:32.232Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2022-11-29T15:04:39.738Z to 2022-11-29T20:36:12.590Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0730959" lon="3.7105642">
+  <name>Myosotisstraat 18</name>
+  <desc>Building from 2022-11-29T21:04:15.970Z to 2022-11-29T21:10:26.909Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0598273" lon="3.7026668">
+  <name>Snack Cece</name>
+  <desc>Restaurant from 2022-11-29T21:23:37.000Z to 2022-11-29T21:36:13.127Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2022-11-29T21:40:13.160Z to 2022-11-30T18:42:31.500Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2022-11-29T11:37:41.000Z to 2022-11-29T11:46:26.000Z. Distance 1091m</desc>
+  <trkseg>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574741" lon="3.7000673"></trkpt>
+    <trkpt lat="51.0571957" lon="3.7004977"></trkpt>
+    <trkpt lat="51.057416" lon="3.7010884"></trkpt>
+    <trkpt lat="51.0576052" lon="3.7015035"></trkpt>
+    <trkpt lat="51.0577546" lon="3.7018679"></trkpt>
+    <trkpt lat="51.0577621" lon="3.701892"></trkpt>
+    <trkpt lat="51.0579474" lon="3.702293"></trkpt>
+    <trkpt lat="51.0581394" lon="3.7026647"></trkpt>
+    <trkpt lat="51.0583036" lon="3.7030201"></trkpt>
+    <trkpt lat="51.0583135" lon="3.7030388"></trkpt>
+    <trkpt lat="51.0585008" lon="3.7032925"></trkpt>
+    <trkpt lat="51.0588096" lon="3.7040185"></trkpt>
+    <trkpt lat="51.0591169" lon="3.7048969"></trkpt>
+    <trkpt lat="51.0592498" lon="3.7052036"></trkpt>
+    <trkpt lat="51.0594575" lon="3.7055982"></trkpt>
+    <trkpt lat="51.059655" lon="3.7059205"></trkpt>
+    <trkpt lat="51.0602313" lon="3.7052542"></trkpt>
+    <trkpt lat="51.0606392" lon="3.7045632"></trkpt>
+    <trkpt lat="51.0609732" lon="3.7045802"></trkpt>
+    <trkpt lat="51.0614567" lon="3.7038706"></trkpt>
+    <trkpt lat="51.0622335" lon="3.7039278"></trkpt>
+    <trkpt lat="51.062459" lon="3.703998"></trkpt>
+    <trkpt lat="51.0626363" lon="3.7037648"></trkpt>
+    <trkpt lat="51.0628878" lon="3.7034469"></trkpt>
+    <trkpt lat="51.0631428" lon="3.703241"></trkpt>
+    <trkpt lat="51.0634064" lon="3.7030438"></trkpt>
+    <trkpt lat="51.06409" lon="3.70339"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>On a tram</name>
+  <desc>On a tram from 2022-11-29T11:55:03.000Z to 2022-11-29T11:57:04.000Z. Distance 794m</desc>
+  <trkseg>
+    <trkpt lat="51.06409" lon="3.70339"></trkpt>
+    <trkpt lat="51.0641195" lon="3.7033017"></trkpt>
+    <trkpt lat="51.0632121" lon="3.7051644"></trkpt>
+    <trkpt lat="51.062587" lon="3.7064431"></trkpt>
+    <trkpt lat="51.062526" lon="3.7069916"></trkpt>
+    <trkpt lat="51.0616694" lon="3.7082536"></trkpt>
+    <trkpt lat="51.0600639" lon="3.7107035"></trkpt>
+    <trkpt lat="51.0599173" lon="3.7120164"></trkpt>
+    <trkpt lat="51.0599173" lon="3.7120164"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>On a tram</name>
+  <desc>On a tram from 2022-11-29T12:12:38.465Z to 2022-11-29T12:21:19.966Z. Distance 1468m</desc>
+  <trkseg>
+    <trkpt lat="51.0599173" lon="3.7120164"></trkpt>
+    <trkpt lat="51.0599173" lon="3.7120164"></trkpt>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Cycling</name>
+  <desc>Cycling from 2022-11-29T14:52:32.232Z to 2022-11-29T15:04:39.738Z. Distance 2106m</desc>
+  <trkseg>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+    <trkpt lat="51.0713667" lon="3.7061567"></trkpt>
+    <trkpt lat="51.0672142" lon="3.6995334"></trkpt>
+    <trkpt lat="51.0664569" lon="3.6996382"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Cycling</name>
+  <desc>Cycling from 2022-11-29T20:36:12.590Z to 2022-11-29T21:04:15.970Z. Distance 1899m</desc>
+  <trkseg>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574101" lon="3.6999857"></trkpt>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2022-11-29T21:10:26.909Z to 2022-11-29T21:23:37.000Z. Distance 1938m</desc>
+  <trkseg>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+    <trkpt lat="51.0730959" lon="3.7105642"></trkpt>
+    <trkpt lat="51.0719533" lon="3.7077372"></trkpt>
+    <trkpt lat="51.0662526" lon="3.7024669"></trkpt>
+    <trkpt lat="51.0636884" lon="3.7041573"></trkpt>
+    <trkpt lat="51.0638052" lon="3.7049987"></trkpt>
+    <trkpt lat="51.063869" lon="3.7052909"></trkpt>
+    <trkpt lat="51.0639182" lon="3.7052055"></trkpt>
+    <trkpt lat="51.0637455" lon="3.7049599"></trkpt>
+    <trkpt lat="51.0635226" lon="3.7048221"></trkpt>
+    <trkpt lat="51.0632581" lon="3.7045018"></trkpt>
+    <trkpt lat="51.0630094" lon="3.7040097"></trkpt>
+    <trkpt lat="51.0628319" lon="3.7039671"></trkpt>
+    <trkpt lat="51.0626026" lon="3.703651"></trkpt>
+    <trkpt lat="51.0623522" lon="3.7036753"></trkpt>
+    <trkpt lat="51.0621392" lon="3.7038192"></trkpt>
+    <trkpt lat="51.0619811" lon="3.7034373"></trkpt>
+    <trkpt lat="51.0617792" lon="3.7031629"></trkpt>
+    <trkpt lat="51.0615468" lon="3.7028295"></trkpt>
+    <trkpt lat="51.0613302" lon="3.7025931"></trkpt>
+    <trkpt lat="51.0611495" lon="3.7022066"></trkpt>
+    <trkpt lat="51.060953" lon="3.7018325"></trkpt>
+    <trkpt lat="51.0598273" lon="3.7026668"></trkpt>
+    <trkpt lat="51.0598273" lon="3.7026668"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2022-11-29T21:36:13.127Z to 2022-11-29T21:40:13.160Z. Distance 331m</desc>
+  <trkseg>
+    <trkpt lat="51.0598273" lon="3.7026668"></trkpt>
+    <trkpt lat="51.0598273" lon="3.7026668"></trkpt>
+    <trkpt lat="51.0594821" lon="3.7017922"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-11-08T22:49:14.808Z to 2023-11-09T14:27:49.407Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.05128" lon="3.70178">
+  <name>Lidl</name>
+  <desc>Supermarket from 2023-11-09T14:41:00.791Z to 2023-11-09T15:05:00.102Z. Distance 0m</desc>
+</wpt>
+<wpt lat="51.0574216" lon="3.7000584">
+  <name>Home (Kokerstraat 12)</name>
+  <desc>from 2023-11-09T15:11:00.186Z to 2023-11-10T08:01:47.589Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Driving</name>
+  <desc>Driving from 2023-11-09T14:27:49.407Z to 2023-11-09T14:41:00.791Z. Distance 1360m</desc>
+  <trkseg>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0580506" lon="3.7030746"></trkpt>
+    <trkpt lat="51.0579071" lon="3.7030938"></trkpt>
+    <trkpt lat="51.0563846" lon="3.6969434"></trkpt>
+    <trkpt lat="51.05128" lon="3.70178"></trkpt>
+    <trkpt lat="51.05128" lon="3.70178"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Driving</name>
+  <desc>Driving from 2023-11-09T15:05:00.102Z to 2023-11-09T15:11:00.186Z. Distance 695m</desc>
+  <trkseg>
+    <trkpt lat="51.05128" lon="3.70178"></trkpt>
+    <trkpt lat="51.05128" lon="3.70178"></trkpt>
+    <trkpt lat="51.0574031" lon="3.7000172"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+    <trkpt lat="51.0574216" lon="3.7000584"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
