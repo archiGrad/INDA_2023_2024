@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="13.741516" lon="100.5252987">
+  <name>CU Terrace</name>
+  <desc>Apartment building from 2024-01-03T17:16:38.248Z to 2024-01-04T01:17:29.185Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.7433865" lon="100.5267991">
+  <name>Wang Mai</name>
+  <desc>from 2024-01-04T01:20:17.085Z to 2024-01-04T02:00:53.877Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.7438549" lon="100.525624">
+  <name>INDA LAB</name>
+  <desc>University from 2024-01-04T02:02:54.899Z to 2024-01-04T03:57:56.114Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.7394291" lon="100.5238271">
+  <name>Chulalongkorn University Centenary Park</name>
+  <desc>State park from 2024-01-04T03:57:56.114Z to 2024-01-04T05:58:25.127Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.741486" lon="100.5255535">
+  <name>CU iHouse</name>
+  <desc>Boarding house from 2024-01-04T05:58:25.127Z to 2024-01-04T12:09:42.643Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2024-01-03T16:49:21.032Z to 2024-01-03T17:16:38.248Z. Distance 1489m</desc>
+  <trkseg>
+    <trkpt lat="13.7393068" lon="100.5172686"></trkpt>
+    <trkpt lat="13.7396546" lon="100.5173137"></trkpt>
+    <trkpt lat="13.7408182" lon="100.5177387"></trkpt>
+    <trkpt lat="13.7406407" lon="100.5190695"></trkpt>
+    <trkpt lat="13.7404032" lon="100.5202878"></trkpt>
+    <trkpt lat="13.7402098" lon="100.5218345"></trkpt>
+    <trkpt lat="13.7404946" lon="100.5229139"></trkpt>
+    <trkpt lat="13.7403587" lon="100.5244049"></trkpt>
+    <trkpt lat="13.7404423" lon="100.5252817"></trkpt>
+    <trkpt lat="13.7409597" lon="100.525355"></trkpt>
+    <trkpt lat="13.741516" lon="100.5252987"></trkpt>
+    <trkpt lat="13.741516" lon="100.5252987"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2024-01-04T01:17:29.185Z to 2024-01-04T01:20:17.085Z. Distance 367m</desc>
+  <trkseg>
+    <trkpt lat="13.741516" lon="100.5252987"></trkpt>
+    <trkpt lat="13.741516" lon="100.5252987"></trkpt>
+    <trkpt lat="13.7428865" lon="100.5259751"></trkpt>
+    <trkpt lat="13.7432751" lon="100.5260792"></trkpt>
+    <trkpt lat="13.7433443" lon="100.5261865"></trkpt>
+    <trkpt lat="13.7433138" lon="100.5265257"></trkpt>
+    <trkpt lat="13.7431672" lon="100.5269459"></trkpt>
+    <trkpt lat="13.742934035" lon="100.527398616"></trkpt>
+    <trkpt lat="13.742934035" lon="100.527398616"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2024-01-04T02:00:53.877Z to 2024-01-04T02:02:54.899Z. Distance 221m</desc>
+  <trkseg>
+    <trkpt lat="13.742934035" lon="100.527398616"></trkpt>
+    <trkpt lat="13.742934035" lon="100.527398616"></trkpt>
+    <trkpt lat="13.7431821" lon="100.5272246"></trkpt>
+    <trkpt lat="13.7438549" lon="100.525624"></trkpt>
+    <trkpt lat="13.7438549" lon="100.525624"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

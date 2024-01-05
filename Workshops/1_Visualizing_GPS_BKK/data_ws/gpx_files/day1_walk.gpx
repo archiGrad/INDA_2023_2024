@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="13.741486" lon="100.5255535">
+  <name>Work (CU iHouse)</name>
+  <desc>Boarding house from 2024-01-03T17:07:18.104Z to 2024-01-04T01:20:03.156Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.7429994" lon="100.5279912">
+  <name>Luckin Coffee - Chula สาขาจุฬาฯ</name>
+  <desc>Coffee shop from 2024-01-04T01:20:03.156Z to 2024-01-04T03:56:57.001Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.7394291" lon="100.5238271">
+  <name>Chulalongkorn University Centenary Park</name>
+  <desc>State park from 2024-01-04T04:06:24.001Z to 2024-01-04T05:56:42.912Z. Distance 0m</desc>
+</wpt>
+<wpt lat="13.741486" lon="100.5255535">
+  <name>Work (CU iHouse)</name>
+  <desc>Boarding house from 2024-01-04T06:04:11.183Z to 2024-01-04T06:36:57.172Z. Distance 0m</desc>
+</wpt>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2024-01-03T16:49:50.891Z to 2024-01-03T17:07:18.104Z. Distance 1303m</desc>
+  <trkseg>
+    <trkpt lat="13.740374" lon="100.5198802"></trkpt>
+    <trkpt lat="13.740672" lon="100.5188358"></trkpt>
+    <trkpt lat="13.7404614" lon="100.5204136"></trkpt>
+    <trkpt lat="13.7404381" lon="100.5204538"></trkpt>
+    <trkpt lat="13.7402185" lon="100.5242233"></trkpt>
+    <trkpt lat="13.741486" lon="100.5255535"></trkpt>
+    <trkpt lat="13.741486" lon="100.5255535"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2024-01-04T03:56:57.001Z to 2024-01-04T04:06:24.001Z. Distance 1216m</desc>
+  <trkseg>
+    <trkpt lat="13.7429994" lon="100.5279912"></trkpt>
+    <trkpt lat="13.7429994" lon="100.5279912"></trkpt>
+    <trkpt lat="13.7436158" lon="100.5249728"></trkpt>
+    <trkpt lat="13.7433829" lon="100.5243409"></trkpt>
+    <trkpt lat="13.7404816" lon="100.5239538"></trkpt>
+    <trkpt lat="13.7421055" lon="100.5242458"></trkpt>
+    <trkpt lat="13.7416827" lon="100.5241115"></trkpt>
+    <trkpt lat="13.7405318" lon="100.523945"></trkpt>
+    <trkpt lat="13.7394291" lon="100.5238271"></trkpt>
+    <trkpt lat="13.7394291" lon="100.5238271"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Walking</name>
+  <desc>Walking from 2024-01-04T05:56:42.912Z to 2024-01-04T06:04:11.183Z. Distance 824m</desc>
+  <trkseg>
+    <trkpt lat="13.7394291" lon="100.5238271"></trkpt>
+    <trkpt lat="13.7394291" lon="100.5238271"></trkpt>
+    <trkpt lat="13.7401868" lon="100.5236488"></trkpt>
+    <trkpt lat="13.7409411" lon="100.5255697"></trkpt>
+    <trkpt lat="13.7403193" lon="100.5235866"></trkpt>
+    <trkpt lat="13.7417127" lon="100.5255689"></trkpt>
+    <trkpt lat="13.741486" lon="100.5255535"></trkpt>
+    <trkpt lat="13.741486" lon="100.5255535"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
