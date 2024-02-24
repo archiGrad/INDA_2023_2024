@@ -1,0 +1,590 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.7720775604248047,
+        1.7586536407470703,
+        0.7214808464050293
+      ],
+      "min": [
+        -1.7720775604248047,
+        -0.01996004581451416,
+        -0.7214808464050293
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999982118606567,
+        0.9999986290931702,
+        0.9999709129333496
+      ],
+      "min": [
+        -0.9999882578849792,
+        -1.0,
+        -0.9999973773956299
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2097024,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2621280,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3669792,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4194048,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9977890253067017,
+        0.9979028105735779
+      ],
+      "min": [
+        0.0020773299038410187,
+        0.2796754240989685
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 223971,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        1.5076472759246826,
+        1.7054260969161987,
+        0.6678327322006226
+      ],
+      "min": [
+        -1.4081768989562988,
+        0.01226806640625,
+        -0.7214808464050293
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1605696,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9999290704727173,
+        0.9999366998672485,
+        0.999176025390625
+      ],
+      "min": [
+        -0.9998214840888977,
+        -0.9999974370002747,
+        -0.9997286796569824
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5242560,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5264512,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5286464,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5308416,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5330368,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5352320,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5374272,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5396224,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5418176,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5440128,
+      "componentType": 5126,
+      "count": 2744,
+      "max": [
+        0.9925961494445801,
+        0.8459103107452393
+      ],
+      "min": [
+        0.00807233341038227,
+        0.3599669933319092
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 895884,
+      "componentType": 5125,
+      "count": 8739,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "JFN (https://sketchfab.com/db4)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/thai-tuk-tuk-auto-rickshaw-scaniverse-lidar-e85c469ae3074ba9a8ed7c15340c178b",
+      "title": "Thai Tuk-Tuk / Auto Rickshaw (Scaniverse LIDAR)"
+    },
+    "generator": "Sketchfab-14.16.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 930840,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5462080,
+      "byteOffset": 930840,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1638624,
+      "byteOffset": 6392920,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8031544,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/main_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "main",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mesh_main_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4,
+            "TEXCOORD_3": 5,
+            "TEXCOORD_4": 6,
+            "TEXCOORD_5": 7,
+            "TEXCOORD_6": 8,
+            "TEXCOORD_7": 9,
+            "TEXCOORD_8": 10,
+            "TEXCOORD_9": 11
+          },
+          "indices": 12,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "mesh_main_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16,
+            "TEXCOORD_2": 17,
+            "TEXCOORD_3": 18,
+            "TEXCOORD_4": 19,
+            "TEXCOORD_5": 20,
+            "TEXCOORD_6": 21,
+            "TEXCOORD_7": 22,
+            "TEXCOORD_8": 23,
+            "TEXCOORD_9": 24
+          },
+          "indices": 25,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "853afe250144412f90796ede81753255.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "mesh"
+    },
+    {
+      "mesh": 0,
+      "name": "mesh_main_0"
+    },
+    {
+      "mesh": 1,
+      "name": "mesh_main_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

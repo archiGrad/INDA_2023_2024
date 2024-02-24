@@ -1,0 +1,11 @@
+Model Information:
+* title:	Street Brooms (Scaniverse LIDAR)
+* source:	https://sketchfab.com/3d-models/street-brooms-scaniverse-lidar-1e19d8bcaacd499586131141be6d1afc
+* author:	JFN (https://sketchfab.com/db4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Street Brooms (Scaniverse LIDAR)" (https://sketchfab.com/3d-models/street-brooms-scaniverse-lidar-1e19d8bcaacd499586131141be6d1afc) by JFN (https://sketchfab.com/db4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

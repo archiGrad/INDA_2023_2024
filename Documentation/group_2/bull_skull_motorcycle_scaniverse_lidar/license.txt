@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bull Skull Motorcycle (Scaniverse LIDAR)
+* source:	https://sketchfab.com/3d-models/bull-skull-motorcycle-scaniverse-lidar-75e00385ff9e417290a8d1ff6e6878c9
+* author:	JFN (https://sketchfab.com/db4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bull Skull Motorcycle (Scaniverse LIDAR)" (https://sketchfab.com/3d-models/bull-skull-motorcycle-scaniverse-lidar-75e00385ff9e417290a8d1ff6e6878c9) by JFN (https://sketchfab.com/db4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
